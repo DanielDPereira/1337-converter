@@ -1,4 +1,7 @@
 //Letras
+
+// Para usar uma barra invertida (\) usar duas no código (\\)
+
 const A = "4"
 const B = "13"
 const C = "("
