@@ -40,3 +40,18 @@ const _7 = "7"
 const _8 = "8"
 const _9 = "9"
 const _0 = "10"
+
+const btn = document.querySelector("#send");
+
+btn.addEventListener("click", function(e){
+
+    e.preventDefault();
+
+    //Pegar os inputs - início
+
+    const texto_entrada = document.querySelector("#a");
+
+    console.log(texto_entrada)
+
+    
+});
